@@ -1,11 +1,16 @@
 _repo: A-Body-of-Divinity-Vol-1-of-4-Wherein-the-doctrines-of-the-Christian-religion-are-explained-a__59133
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59133-h/images/cover.jpg
 creator:
   author:
     agent_name: Ridgley, Thomas
     gutenberg_agent_id: '50315'
     url: http://www.gutenberg.org/2009/agents/50315
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59133#A-Body-of-Divinity-Vol-1-of-4-Wherein-the-doctrines-of-the-Christian-religion-are-explained-a_
 gutenberg_issued: '2019-03-26'
 gutenberg_type: Text
 identifiers:
